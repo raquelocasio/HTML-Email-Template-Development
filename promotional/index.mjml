@@ -1,0 +1,90 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>      
+      <mj-section background-color="#fff" />
+      <mj-text font-family="Arial" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#F0F0F0">
+    
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://raquelocasio.com/emailtemplates/promotional/images/logo.png" href="#"></mj-image>
+        <mj-image src="https://raquelocasio.com/emailtemplates/promotional/images/mainimage.png" href="#"></mj-image>
+        <mj-text font-size="18px" font-weight="bold">Check your inbox for the next sale category arriving shortly.</mj-text>
+        <mj-text font-size="14px" color="#0060ac">Includes items tagged housewares, furniture, electronics, bed & bath linens, and other large items. Excludes white tagged Grab & Go items and gift card purchases. Not valid with any other coupon, discount, or at grand openings. Valid at all 2nd Ave.® store locations</mj-text>
+        <mj-button width="100%" background-color="#0060AC" font-size="18px" font-weight="bold" line-height="21px" height="60px" href="#">FIND A STORE NEAR YOU</mj-button>
+        <mj-text align="center" padding-top="40px"><h2>Follow us on social media <span style="color: #0060AC;">@2ndavestores</span> for exciting updates.</h2></mj-text>
+        <mj-text align="center"><h2>Share your #2ndAveFinds</h2></mj-text>
+         </mj-column>
+      
+    </mj-section>      
+    
+    <mj-section background-color="#F0F0F0">
+   <mj-column>
+      <mj-spacer height="10px"></mj-spacer>
+     </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+      	<mj-text font-weight="bold" font-size="16px" line-height="22px"><a href="#" style="text-decoration: none; color: black;">About us</a></mj-text>
+        <mj-text font-weight="bold" font-size="16px" line-height="22px"><a href="#" style="text-decoration: none; color: black;">Contact us</a></mj-text>
+        <mj-text font-weight="bold" font-size="16px" line-height="22px"><a href="#" style="text-decoration: none; color: black;">Privacy Policy</a></mj-text>        
+      </mj-column>
+      
+       <mj-column>
+         <mj-text font-size="14px" line-height="22px" letter-spacing="0px">You are receiving this message because you subscribed to 2nd Ave. Thrift Superstore<sup>TM</sup> email.</mj-text>         
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    <mj-section>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td>
+              <a href="#"><img src="https://raquelocasio.com/emailtemplates/promotional/images/instragram.png"></img></a>
+            </td>
+            <td>
+              <a href="#"><img src="https://raquelocasio.com/emailtemplates/promotional/images/pinterest.png"></img></a>
+            </td>
+            <td>
+              <a href="#"><img src="https://raquelocasio.com/emailtemplates/promotional/images/youtube.png"></img></a>
+            </td>
+            <td>
+              <a href="#"><img src="https://raquelocasio.com/emailtemplates/promotional/images/facebook.png"></img></a>
+            </td>
+            <td>
+              <a href="#"><img src="https://raquelocasio.com/emailtemplates/promotional/images/chaticon.png"></img></a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="14px" line-height="22px" letter-spacing="0px"><a href="#" style="color: black;">Unsubscribe</a> | <a href="#" style="color: black;">View online</a></mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
+   
+    <mj-section background-color="#F0F0F0">
+      <mj-column>
+       
+        <mj-text align="center" font-size="14px" line-height="22px" letter-spacing="0px">Copyright 2022 © <a href="#" style="color: black;">2nd Ave. Thrift Superstore</a></mj-text>
+        <mj-text align="center" font-size="14px" line-height="22px" letter-spacing="0px">11400 SE 6th St. #125 Bellevue, WA 98004</mj-text>
+        <mj-text align="center" font-size="14px" line-height="22px" letter-spacing="0px">+1 (425) 462-1515</mj-text>
+      </mj-column>
+    </mj-section>
+            
+  </mj-body>
+</mjml>
