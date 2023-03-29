@@ -1,1 +1,1 @@
-Recreated a newsletter sent by Labcorp to remind patients of colon cancer screenings. This template was created using MJML, and export to HTML.
+Recreated a newsletter sent by Labcorp to remind patients of colon cancer screenings. This template was created using MJML, and export to HTML. Screenshots of this template on desktop and mobile screens is also included.
