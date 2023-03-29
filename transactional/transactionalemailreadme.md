@@ -1,0 +1,1 @@
+Recreated a promotional email sent by 2nd Ave Thrift Stores to let custmoers know about an upcoming sale. This template was created using MJML, and exported to HTML. Screenshots of this template on desktop and mobile screens is also included.
