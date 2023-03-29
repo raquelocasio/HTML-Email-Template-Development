@@ -1,0 +1,111 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper background-color="#EEEEEE" padding="20px">
+    <mj-section>
+      <mj-column width="25%">        
+          <mj-image src="https://raquelocasio.com/emailtemplates/newsletter/images/labcorplogo.jpg"></mj-image>
+        
+      </mj-column>
+      
+      <mj-column>
+        <mj-text font-family="Calibri" font-size="10px" line-height="100%">
+          <p><a href="#" style="color: #918f90;">Purchase a health test</a>  |  <a href="#" style="color: #918f90;">Learn about clinical trials</a>  |   <a href="#" style="color: #918f90;">Access your account</a></p>
+        </mj-text>        
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Times New Roman" color="#231f20" line-height="28px">
+          <h1>Colon cancer is 90% survivable if caught early by your doctor</h1>
+        </mj-text>
+        <mj-text font-family="Calibri" color="#231f20" line-height="18px" font-size="15px">
+          <p>All people 45 and older should be screened for colon cancer. Getting screened is easy and can help you live a longer, healthier life.</p>
+        </mj-text>
+        
+        <mj-image src="https://raquelocasio.com/emailtemplates/newsletter/images/video-thumbnail.jpg" href="https://click.labcorpmessage.com/?qs=019fa0f5c96d122d0848071343225a1c63a3cd3db81ab98c6ff3e49d87a2c3b23df970944ab04cb11bed9f397bd01110cb90e3fb757ef10a1447b0033765c4f0"></mj-image>
+        
+        <mj-text font-family="Calibri" color="#231f20" line-height="18px" font-size="15px">
+          <p>Just ask Dr. Boddie. At a routine health screening when Tee was 49-years-old, his doctor suggested an at-home test to screen for signs of colorectal cancer. He now calls it the routine screening that saved his life.</p>
+        </mj-text>
+        
+        <mj-button font-family="Helvetica" background-color="#3A5CE9" color="white" border-radius="20px" href="https://click.labcorpmessage.com/?qs=019fa0f5c96d122de569776c83fb982ab372ace2bb2120d0caaade0db7121d731f5111f4e586f216470f874bcd2a125b50d91f7870946d5d8ad8f115d071aad8">Hear Tee's Story
+         </mj-button>
+      </mj-column>
+    </mj-section>      
+
+    <mj-section padding-left="20px" padding-right="20px" background-color="#ffffff">
+      <mj-column background-color="#EEEEEE">
+        <mj-image src="https://raquelocasio.com/emailtemplates/newsletter/images/labcorpondemand.png"></mj-image>
+        <mj-spacer height="155px" />
+      </mj-column>
+      <mj-column background-color="#EEEEEE">
+        <mj-text font-family="Calibri" color="#1a2188" line-height="19px" font-size="17px">
+          <h4>Get screened for colon cancer from home</h4>
+        </mj-text>
+         <mj-text font-family="Calibri" color="#231f20" line-height="18px" font-size="15px" align="left">
+          <p>There are multiple trusted options for colon cancer screening. For people of average risk, an at-home FIT test could be an option. Talk to your provider or order a test from Labcorp OnDemand today.</p>
+        </mj-text>
+        <mj-text font-family="Calibri" color="#231f20" font-size="15px" font-weight="bold">
+          <a href="#">Purchase Kit</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>      
+    
+    <mj-section background-color="#EEEEEE">
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+      <mj-image src="https://raquelocasio.com/emailtemplates/newsletter/images/countonyougetscreened.jpg" href="https://click.labcorpmessage.com/?qs=019fa0f5c96d122db45c4cb3c2c9fcfe4b0e9c378c8024ce0b8f369e3a5a9e72fc1c1ae3333484631884b91c66e2159ba644856ce075657ff8066bb0c1766088"></mj-image>
+        <mj-text font-family="Calibri" color="#1a2188" font-size="17px">
+          <h4>The best advocate for yourself is you</h4>
+        </mj-text>
+        <mj-text font-family="Calibri" color="#231f20" font-size="15px">
+          <p>Colon cancer screening isn’t the only important preventative care screening. Learn about common screenings to help you start the conversation with your doctor.</p>
+        </mj-text>
+        <mj-button font-family="Helvetica" background-color="#3A5CE9" color="white" border-radius="20px" href="#">Learn more about regular screenings
+         </mj-button>
+        </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#EEEEEE">
+      <mj-column>
+        <mj-social icon-size="20px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://mjml.io/" background-color="#3A5CE9">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://mjml.io/" background-color="#3A5CE9">
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://mjml.io/" background-color="#3A5CE9">
+          </mj-social-element>
+          <mj-social-element name="linkedin" href="https://mjml.io/" background-color="#3A5CE9">
+          </mj-social-element>
+          <mj-social-element name="youtube" href="https://mjml.io/" background-color="#3A5CE9">
+          </mj-social-element>
+        </mj-social>
+        
+        <mj-text font-family="Calibri" color="#231f20" font-size="10px">
+          <p>This message was sent to <a href="#">name@email.com.</a></p>
+          <p>Add <a href="#">labcorp@labcorpmessage.com</a> to your address book to ensure our emails reach your inbox.
+</p>
+          <p><a href="#">Privacy Policy</a>  |  <a href="#">Terms of Use</a>  |   <a href="#">Non-discrimination Notice</a>  |  <a href="#">View in Browser</a></p>
+          <p>Labcorp - 531 S. Spring Street, Burlington, NC 27215 USA<br>Click <a href="#">here</a> to update your email preferences or opt-out of marketing email from Labcorp.</br></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
